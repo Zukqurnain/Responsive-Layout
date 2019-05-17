@@ -1,0 +1,138 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: #ebedf0;
+
+}
+
+.width {
+    display: flex;
+    justify-content: center;
+    line-height: 40px;
+}   
+
+.outerDiv  {
+    background-color:#3b5998;
+    color: #fff;
+    width: 100%;
+    height: 100px;
+    display:block;
+}
+
+.leftDiv {
+        color: #000;
+        float: left;
+        font-size: 50px;
+        margin-top: 20px;
+        padding-left: 10px;
+        color: white;
+}
+
+.rightDiv {
+    color: #000;
+    float: right;
+    margin-top: 30px;
+    padding-right: 10px;
+}
+
+.btn {
+    background-color: #4267b2;
+    border-color: #29487d;
+    margin-top: 16px;
+    color: white;
+    padding: 5px;
+}
+
+
+.form {
+    margin: 0 20px 0 20px;
+    line-height: 22px;
+}
+
+.first .second {
+    padding-bottom: 10px;
+}
+    
+    
+
+.first input {
+        border: 1px solid #bdc7d8;
+        border-radius: 5px;
+        margin: 0;
+        font-size: 18px;
+        padding: 8px 10px;
+        outline: none;
+        box-shadow: none;
+        margin: 3px;
+        width: 172px;
+}
+
+.second input {
+    border: 1px solid #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    font-size: 18px;
+    padding: 8px 10px;
+    outline: none;
+    box-shadow: none;
+    margin: 3px;
+    width: 172px;
+}
+
+ div .second > input {
+    width: 376px;;
+}
+
+.birth {
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    display: block;
+    line-height: 30px;
+}
+
+.third {
+    margin-left: 6px;
+}
+
+.small {
+    font-size: 11px;
+}
+
+select {
+	height: 30px;
+	padding: 5px;
+	border-radius: 1px;
+	font-size: 13px;
+}
+
+.fourth {
+    margin-top: 20px;
+}
+
+.size {
+    font-size: 18px;
+}
+
+.terms {
+    font-size: 11px;
+    color: #777777;
+    margin-left: 4px;
+    line-height: 17px;
+}
+
+.signUp {
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 19px;
+    color: white;
+    border-radius: 5px;
+
+}
